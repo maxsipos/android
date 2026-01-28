@@ -65,7 +65,7 @@ This application is actively maintained and regularly updated to improve perform
 ## Documentation & Support
 
 Official website:  
-https://maxsi.id/aplikasi-kasir/
+https://maxsi.id/en/pos/
 
 Additional documentation, guides, and updates are provided through the official website.
 
